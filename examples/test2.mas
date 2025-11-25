@@ -1,0 +1,14 @@
+# это комментарий
+x = "Hello"
+y = "World"
+print x + " " + y
+print "Hello" + "User"
+add 5 2
+input x "What? "
+print x + " hello"
+add 5 1 z
+print z
+mul 5 11 u
+print u + " pass"
+div 10 2 float u
+print u

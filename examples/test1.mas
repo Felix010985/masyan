@@ -1,0 +1,5 @@
+input x "How are you? "
+if x == "good":
+print "That's great! " + x + ", I'm happy!"
+else:
+print "I don't understand..."
